@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here - changed</title>
+<title>Insert title here - changed v2</title>
 <link rel="stylesheet" type="text/css" href="design.css">
 </head>
 <body>
